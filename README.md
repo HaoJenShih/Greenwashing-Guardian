@@ -1,4 +1,4 @@
-# Greenwashing-Detection
+# Greenwashing-Guardian
 
 A comprehensive ESG (Environmental, Social, and Governance) greenwashing detection platform that combines a modern React frontend with a powerful FastAPI backend to analyze corporate sustainability reports and detect potential greenwashing practices.
 
